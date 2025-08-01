@@ -11,12 +11,11 @@ File and  Description
 
 ## 📊 Visualizations Used
 
-- 📍 GeoChart (top restaurant cities)
-- 🌡️ Heatmap (Avg Rating vs City & Price Range)
-- 🌳 Treemap (Cuisine by Count)
-- 📦 Boxplot (Rating by Price Range)
-- 🧩 Pie Charts, Bar Charts
-- 📅 Timeline (restaurant openings over years)
+-  GeoChart (top restaurant cities)
+-  Heatmap (Avg Rating vs City & Price Range)
+-  Boxplot (Rating by Price Range)
+-  Pie Charts
+-  Bar Charts
 
 ## 🔍 Key Insights
 
