@@ -38,4 +38,4 @@ File and  Description
 
 **Palak Bhuller**  
 Data Analyst | Passionate about visual storytelling using R and Power BI  
-📧 Reach out: [LinkedIn](http://www.linkedin.com/in/palak-bhuller30))  
+📧 Reach out: [LinkedIn](http://www.linkedin.com/in/palak-bhuller30)
